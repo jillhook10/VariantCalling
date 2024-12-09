@@ -1,4 +1,4 @@
-#CRISPR
+# CRISPR
 
 You work at the frontier of science. The biotech company you’re with is aiming to edit thousands of sites in mammalian genomes. The wet lab team is excited—they’ve run their CRISPR experiments on a mouse cell culture and sequenced the results!
 
